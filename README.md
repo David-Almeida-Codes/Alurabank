@@ -1,2 +1,2 @@
 # Alurabank
-Projeto do cuso de typescript da alura.
+Projeto do curso de typescript da alura.
